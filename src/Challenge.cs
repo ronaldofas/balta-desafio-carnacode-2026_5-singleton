@@ -137,7 +137,7 @@ namespace DesignPatternChallenge.Challenge
 
     class ChallengeDemo
     {
-        static void Main(string[] args)
+        static void Run(string[] args)
         {
             Console.WriteLine("=== Sistema de Configurações ===\n");
 
