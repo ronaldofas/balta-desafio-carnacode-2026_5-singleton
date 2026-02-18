@@ -6,7 +6,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace DesignPatternChallenge
+namespace DesignPatternChallenge.Challenge
 {
     // Contexto: Sistema que precisa de configurações centralizadas e consistentes
     // As configurações são carregadas de arquivos, variáveis de ambiente e banco de dados
@@ -135,7 +135,7 @@ namespace DesignPatternChallenge
         }
     }
 
-    class Program
+    class ChallengeDemo
     {
         static void Main(string[] args)
         {
